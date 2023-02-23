@@ -1,0 +1,27 @@
+<Skills after course>
+			<skill id = "1"> Testing theory </skill>
+			<skill id = "2"> Theory of client-server architecture </skill>
+			<skill id = "3"> HTTP Methods of requests to the server </skill>
+			<skill id = "4"> JSON, XML </skill>
+			<skill id = "5"> API testing </skill>
+			<skill id = "6"> Removing and reading logs from an external server </skill>
+			<skill id = "7"> Sniffing http web traffic via Charles and Fiddler </skill>
+			<skill id = "8"> Dev Tools of web browsers </skill>
+			<skill id = "9"> Command line (terminal) Linux </skill>
+			<skill id = "10"> Basics of bash scripting, automation of routine tasks on the server </skill>
+			<skill id = "11"> Access to remote servers </skill>
+			<skill id = "12"> SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join) </skill>
+			<skill id = "13"> Postgres database (installation, configuration and use) </skill>
+			<skill id = "14"> Non-relational database Redis (installation, configuration and use) </skill>
+			<skill id = "15"> Load testing in Jmeter </skill>
+			<skill id = "16"> Scrum development methodology </skill>
+			<skill id = "17">  Mobile testing </skill>   
+						<skill id = "17.1"> Feature iOS, Android, guidelines </skill>
+						<skill id = "17.2"> Building iOS applications on XCode </skill>
+						<skill id = "17.3"> Building Android applications on Android Studio </skill>
+						<skill id = "17.4"> ADB (android device management) </skill>
+						<skill id = "17.5"> Setting up proxy and vpn on iOS and Android </skill>
+						<skill id = "17.6"> Sniffing of mobile traffic via Charles and Fiddler on iOS and Android </skill>
+					
+			<skill id = "18"> Python. (Learning the basics. Creating a client-server application </skill>
+</Skill after course>
