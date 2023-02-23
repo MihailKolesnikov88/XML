@@ -1,4 +1,4 @@
-<Skills after course>
+<Skills_after_course>
 			<skill id = "1"> Testing theory </skill>
 			<skill id = "2"> Theory of client-server architecture </skill>
 			<skill id = "3"> HTTP Methods of requests to the server </skill>
@@ -24,4 +24,4 @@
 						<skill id = "17.6"> Sniffing of mobile traffic via Charles and Fiddler on iOS and Android </skill>
 					
 			<skill id = "18"> Python. (Learning the basics. Creating a client-server application </skill>
-</Skill after course>
+</Skills_after_course>

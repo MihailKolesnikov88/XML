@@ -1,22 +1,22 @@
 
 <info> 
-	<favorit movies>
+	<favorit_movies>
 		<movie id = "1">
 		<name> Knockin on Havents </name>
 		</movie>
 		<movie id = "2">
 		<name> Interstellar </name>
 		</movie>
-	</favorit movies> 
-	<favorit series>
+	</favorit_movies> 
+	<favorit_series>
 		<series id ="1">
 		<name> Wednesday </name>
 		</series>
 		<series id ="2">
 		<name> The Sandman </name>
 		</series>
-	</favorit series>
-	<favorit season> Summer </favorit season>
-	<country you would like to visit> USA </country you would like to visit>
+	</favorit_series>
+	<favorit_season> Summer </favorit_season>
+	<country_you_would_like_to_visit> USA </country_you_would_like_to_visit>
 
 </info>
