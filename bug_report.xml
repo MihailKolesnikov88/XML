@@ -1,1 +1,28 @@
 
+<Bug_report>
+    
+                  <Number id = "1"/>
+                  <Summary> name of the bug </Summary>
+                  <Date_submitted> __/__/____ </Date_submitted> 
+                  <Assigned_to> developer namme </Assigned_to>
+                  <Priority> Lov/Normal/High </Priority>
+                  <Severity> Blocker/Critical/Major/Minor/Trivial </Severity>
+  
+                  <Preconditions>
+                                      <Step id = "1"> text </Step>
+                                      <Step id = "2"> text </Step>
+                  </Preconditions>
+  
+                   <Steps_to_reproduce>
+                                      <Step id = "1"> text </Step>
+                                      <Step id = "2"> text </Step>
+                                      <Step id = "3"> text </Step>
+                                      <Step id = "4"> text </Step>
+                   </Steps_to_reproduce> 
+                                        
+                  <Actual_result> text </Actual_result>  
+                  <Expected_result> text <Expected_result>
+                  <Attachment> link/foto/video <Attachment>
+                  <Environment> Device/Brauser version <Environment>
+                    
+</Bug_report>
